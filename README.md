@@ -111,3 +111,9 @@ Command - these are methods that change the state of the application and do not 
 Query - these are methods that return something, but do not change the state of the application.
 
 CQS on Wiki: https://en.wikipedia.org/wiki/Command%E2%80%93query_separation
+
+# More:
+https://howtodoinjava.com/best-practices/5-class-design-principles-solid-in-java/ <br/>
+https://www.freecodecamp.org/news/kriptofolio-app-series-part-1/ <br/>
+https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4 <br/>
+https://roadmap.sh/guides/design-patterns-for-humans <br/>
