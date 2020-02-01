@@ -118,3 +118,4 @@ https://www.freecodecamp.org/news/kriptofolio-app-series-part-1/ <br/>
 https://itnext.io/solid-principles-explanation-and-examples-715b975dcad4 <br/>
 https://roadmap.sh/guides/design-patterns-for-humans <br/>
 https://hackernoon.com/solid-principles-simple-and-easy-explanation-f57d86c47a7f <br/>
+https://gist.github.com/garudareiga <br/>
